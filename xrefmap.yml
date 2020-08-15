@@ -1,0 +1,85 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Cache.InMemory
+  name: Cache.InMemory
+  href: api/Cache.InMemory.html
+  commentId: N:Cache.InMemory
+  fullName: Cache.InMemory
+  nameWithType: Cache.InMemory
+- uid: Cache.InMemory.Extensions
+  name: Cache.InMemory.Extensions
+  href: api/Cache.InMemory.Extensions.html
+  commentId: N:Cache.InMemory.Extensions
+  fullName: Cache.InMemory.Extensions
+  nameWithType: Cache.InMemory.Extensions
+- uid: Cache.InMemory.Extensions.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Cache.InMemory.Extensions.ServiceCollectionExtensions.html
+  commentId: T:Cache.InMemory.Extensions.ServiceCollectionExtensions
+  fullName: Cache.InMemory.Extensions.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Cache.InMemory.Extensions.ServiceCollectionExtensions.AddInMemoryCache(IServiceCollection)
+  name: AddInMemoryCache(IServiceCollection)
+  href: api/Cache.InMemory.Extensions.ServiceCollectionExtensions.html#Cache_InMemory_Extensions_ServiceCollectionExtensions_AddInMemoryCache_IServiceCollection_
+  commentId: M:Cache.InMemory.Extensions.ServiceCollectionExtensions.AddInMemoryCache(IServiceCollection)
+  fullName: Cache.InMemory.Extensions.ServiceCollectionExtensions.AddInMemoryCache(IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddInMemoryCache(IServiceCollection)
+- uid: Cache.InMemory.Extensions.ServiceCollectionExtensions.AddInMemoryCache*
+  name: AddInMemoryCache
+  href: api/Cache.InMemory.Extensions.ServiceCollectionExtensions.html#Cache_InMemory_Extensions_ServiceCollectionExtensions_AddInMemoryCache_
+  commentId: Overload:Cache.InMemory.Extensions.ServiceCollectionExtensions.AddInMemoryCache
+  isSpec: "True"
+  fullName: Cache.InMemory.Extensions.ServiceCollectionExtensions.AddInMemoryCache
+  nameWithType: ServiceCollectionExtensions.AddInMemoryCache
+- uid: Cache.InMemory.InMemoryCache
+  name: InMemoryCache
+  href: api/Cache.InMemory.InMemoryCache.html
+  commentId: T:Cache.InMemory.InMemoryCache
+  fullName: Cache.InMemory.InMemoryCache
+  nameWithType: InMemoryCache
+- uid: Cache.InMemory.InMemoryCache.#ctor(IMemoryCache)
+  name: InMemoryCache(IMemoryCache)
+  href: api/Cache.InMemory.InMemoryCache.html#Cache_InMemory_InMemoryCache__ctor_IMemoryCache_
+  commentId: M:Cache.InMemory.InMemoryCache.#ctor(IMemoryCache)
+  fullName: Cache.InMemory.InMemoryCache.InMemoryCache(IMemoryCache)
+  nameWithType: InMemoryCache.InMemoryCache(IMemoryCache)
+- uid: Cache.InMemory.InMemoryCache.#ctor*
+  name: InMemoryCache
+  href: api/Cache.InMemory.InMemoryCache.html#Cache_InMemory_InMemoryCache__ctor_
+  commentId: Overload:Cache.InMemory.InMemoryCache.#ctor
+  isSpec: "True"
+  fullName: Cache.InMemory.InMemoryCache.InMemoryCache
+  nameWithType: InMemoryCache.InMemoryCache
+- uid: Cache.InMemory.InMemoryCache.GetAsync*
+  name: GetAsync
+  href: api/Cache.InMemory.InMemoryCache.html#Cache_InMemory_InMemoryCache_GetAsync_
+  commentId: Overload:Cache.InMemory.InMemoryCache.GetAsync
+  isSpec: "True"
+  fullName: Cache.InMemory.InMemoryCache.GetAsync
+  nameWithType: InMemoryCache.GetAsync
+- uid: Cache.InMemory.InMemoryCache.GetAsync``1(System.String,CancellationToken)
+  name: GetAsync<TObject>(String, CancellationToken)
+  href: api/Cache.InMemory.InMemoryCache.html#Cache_InMemory_InMemoryCache_GetAsync__1_System_String_CancellationToken_
+  commentId: M:Cache.InMemory.InMemoryCache.GetAsync``1(System.String,CancellationToken)
+  name.vb: GetAsync(Of TObject)(String, CancellationToken)
+  fullName: Cache.InMemory.InMemoryCache.GetAsync<TObject>(System.String, CancellationToken)
+  fullName.vb: Cache.InMemory.InMemoryCache.GetAsync(Of TObject)(System.String, CancellationToken)
+  nameWithType: InMemoryCache.GetAsync<TObject>(String, CancellationToken)
+  nameWithType.vb: InMemoryCache.GetAsync(Of TObject)(String, CancellationToken)
+- uid: Cache.InMemory.InMemoryCache.SetAsync(System.String,System.Object,System.Nullable{TimeSpan},CancellationToken)
+  name: SetAsync(String, Object, Nullable<TimeSpan>, CancellationToken)
+  href: api/Cache.InMemory.InMemoryCache.html#Cache_InMemory_InMemoryCache_SetAsync_System_String_System_Object_System_Nullable_TimeSpan__CancellationToken_
+  commentId: M:Cache.InMemory.InMemoryCache.SetAsync(System.String,System.Object,System.Nullable{TimeSpan},CancellationToken)
+  name.vb: SetAsync(String, Object, Nullable(Of TimeSpan), CancellationToken)
+  fullName: Cache.InMemory.InMemoryCache.SetAsync(System.String, System.Object, System.Nullable<TimeSpan>, CancellationToken)
+  fullName.vb: Cache.InMemory.InMemoryCache.SetAsync(System.String, System.Object, System.Nullable(Of TimeSpan), CancellationToken)
+  nameWithType: InMemoryCache.SetAsync(String, Object, Nullable<TimeSpan>, CancellationToken)
+  nameWithType.vb: InMemoryCache.SetAsync(String, Object, Nullable(Of TimeSpan), CancellationToken)
+- uid: Cache.InMemory.InMemoryCache.SetAsync*
+  name: SetAsync
+  href: api/Cache.InMemory.InMemoryCache.html#Cache_InMemory_InMemoryCache_SetAsync_
+  commentId: Overload:Cache.InMemory.InMemoryCache.SetAsync
+  isSpec: "True"
+  fullName: Cache.InMemory.InMemoryCache.SetAsync
+  nameWithType: InMemoryCache.SetAsync
