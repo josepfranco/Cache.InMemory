@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache.InMemory", "src\Cache.InMemory\Cache.InMemory.csproj", "{C303FCE8-899E-4E4A-939F-02EB1872A700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache.InMemory.Tests", "src\Cache.InMemory.Tests\Cache.InMemory.Tests.csproj", "{60A1BADA-C092-4727-9833-104A7C3E2A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C303FCE8-899E-4E4A-939F-02EB1872A700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C303FCE8-899E-4E4A-939F-02EB1872A700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C303FCE8-899E-4E4A-939F-02EB1872A700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C303FCE8-899E-4E4A-939F-02EB1872A700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A1BADA-C092-4727-9833-104A7C3E2A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A1BADA-C092-4727-9833-104A7C3E2A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A1BADA-C092-4727-9833-104A7C3E2A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A1BADA-C092-4727-9833-104A7C3E2A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
